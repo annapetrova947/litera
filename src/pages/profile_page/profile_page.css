@@ -1,0 +1,14 @@
+.user-info {
+  list-style-type: none;
+  font-size: 65px;
+  color: #eee;
+}
+
+.info {
+  color: #eee;
+  font-size: 30px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+

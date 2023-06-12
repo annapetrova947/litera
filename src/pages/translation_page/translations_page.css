@@ -1,0 +1,49 @@
+.language-direction-icon {
+  margin: 0;
+  color: #eee;
+}
+
+.translations-page {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rows .row {
+  display: inline-block;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.release-the-beast {
+  width: 250px;
+}
+
+.translate-form-field {
+  padding: 20px;
+  width: 300px;
+  margin: 5px;
+  height: 200px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  resize: none;
+}
+
+.language-code {
+  color: #eee;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none;
+}

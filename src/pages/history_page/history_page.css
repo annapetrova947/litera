@@ -1,0 +1,10 @@
+.history-list {
+  list-style-type: none;
+  font-size: 50px;
+  color: #eee;
+}
+
+.amount-translation{
+  color: #eee;
+  font-size: 50px;
+}
